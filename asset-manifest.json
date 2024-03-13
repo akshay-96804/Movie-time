@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-time/static/css/main.e45fb457.css",
+    "main.js": "/Movie-time/static/js/main.347381a5.js",
+    "index.html": "/Movie-time/index.html",
+    "main.e45fb457.css.map": "/Movie-time/static/css/main.e45fb457.css.map",
+    "main.347381a5.js.map": "/Movie-time/static/js/main.347381a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.347381a5.js"
+  ]
+}
