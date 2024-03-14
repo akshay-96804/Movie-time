@@ -1,3 +1,8 @@
+
+![screenshot1](https://github.com/akshay-96804/Movie-time/assets/62737894/ea6ed559-f254-48d6-a02b-6b4cd92f14e5)
+![screenshot2](https://github.com/akshay-96804/Movie-time/assets/62737894/63b5e711-e892-4850-9ecb-445c6a21067a)
+![screenshot3](https://github.com/akshay-96804/Movie-time/assets/62737894/740420d1-a52a-480e-81a9-20737bae1b45)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
